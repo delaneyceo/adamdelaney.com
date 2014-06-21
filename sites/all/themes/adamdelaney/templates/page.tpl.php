@@ -70,7 +70,7 @@
  * @see omega_preprocess_page()
  */
 ?>
-<video id="video_background" preload="auto" loop="loop" muted="muted" volume="0" poster="http://static.ddmcdn.com/gif/storymaker-best-hubble-space-telescope-images-20092-514x268.jpg">
+<video id="video_background" preload="auto" autoplay="true" loop="loop" muted="muted" volume="0" poster="http://static.ddmcdn.com/gif/storymaker-best-hubble-space-telescope-images-20092-514x268.jpg">
   <source src="/sites/all/themes/adamdelaney/video/test/test.webm" type="video/webm">
   <source src="/sites/all/themes/adamdelaney/video/test/test.mp4" type="video/mp4">
   Video not supported
